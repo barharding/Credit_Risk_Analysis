@@ -1,10 +1,10 @@
 # Credit_Risk_Analysis
 
-##Overview
+## Overview
 
 Explain the purpose of this analysis.
 
-#Results
+# Results
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
