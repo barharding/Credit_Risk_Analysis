@@ -10,7 +10,30 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 
-
+- RandomOverSampler
+  - Balanced accuracy score
+  - Precision
+  - Recall
+- SMOTE algorithms
+  - Balanced accuracy score
+  - Precision
+  - Recall
+- ClusterCentroids algorithm
+  - Balanced accuracy score
+  - Precision
+  - Recall
+- Smoteenn
+  - Balanced accuracy score
+  - Precision
+  - Recall
+- BalancedRandomForestClassifier
+  - Balanced accuracy score
+  - Precision
+  - Recall
+- EasyEnsembleClassifier
+  - Balanced accuracy score
+  - Precision
+  - Recall
 
 ## Summary
 
