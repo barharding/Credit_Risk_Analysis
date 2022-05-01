@@ -21,7 +21,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 
 - SMOTE algorithms
   - Balanced accuracy score 0.6564
-- The Precision & Recall scores for both High and Low risk are shown in figure 2
+  - The Precision & Recall scores for both High and Low risk are shown in figure 2
 
   **_Figure 2: Smote_**
 
@@ -29,7 +29,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 
 - ClusterCentroids algorithm
   - Balanced accuracy score 0.5142
-- The Precision & Recall scores for both High and Low risk are shown in figure 3
+  - The Precision & Recall scores for both High and Low risk are shown in figure 3
 
   **_Figure 3: Cluster Centroids_**
 
@@ -37,7 +37,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 
 - Smoteenn
   - Balanced accuracy score 0.6794
-- The Precision & Recall scores for both High and Low risk are shown in figure 4
+  - The Precision & Recall scores for both High and Low risk are shown in figure 4
 
   **_Figure 4: Smoteen_**
 
@@ -45,7 +45,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 
 - BalancedRandomForestClassifier
   - Balanced accuracy score 0.7877
-- The Precision & Recall scores for both High and Low risk are shown in figure 5
+  - The Precision & Recall scores for both High and Low risk are shown in figure 5
 
   **_Figure 5: Balance Random Forest Classifier Classification Report_**
 
@@ -53,7 +53,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 
 - EasyEnsembleClassifier
   - Balanced accuracy score 0.9254
-- The Precision & Recall scores for both High and Low risk are shown in figure 6
+  - The Precision & Recall scores for both High and Low risk are shown in figure 6
   
   **_Figure 6: Easy Ensemble Classifier Classification Report_**
 
