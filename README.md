@@ -15,7 +15,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
   - Precision
   - Recall
 
-**_Figure 1: RandomOverSampler_**
+**_Figure 1: Random OverSampler Classification Report_**
 
 ![RandomOverSampler](/images/Naive_Random_Oversampling_Classification_Report.png)
 
@@ -23,22 +23,37 @@ There is a bulleted list that describes the balanced accuracy score and the prec
   - Balanced accuracy score
   - Precision
   - Recall
+
+
 - ClusterCentroids algorithm
   - Balanced accuracy score
   - Precision
   - Recall
+
+
 - Smoteenn
   - Balanced accuracy score
   - Precision
   - Recall
+
+
 - BalancedRandomForestClassifier
   - Balanced accuracy score
   - Precision
   - Recall
+
+  **_Figure 5: Balance Random Forest Classifier Classification Report_**
+
+![Balanced Random](/images/Balanced_Random_Forest_Classification_Report.png)
+
 - EasyEnsembleClassifier
   - Balanced accuracy score
   - Precision
   - Recall
+  
+  **_Figure 6: Easy Ensemble Classifier Classification Report_**
+
+![Easy Ensemble](/images/Easy_Ensemble_Classification_Report.png)
 
 ## Summary
 
