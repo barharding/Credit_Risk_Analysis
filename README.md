@@ -10,7 +10,7 @@ For the six models below we use the balanced accuracy score to better judge the 
 
 By leveraging recall we can see how well the model was at predicting the right level of risk and precision tell us the degree of error in the categorization, i.e. what % of high risk applicants we categorized as low risk or what % of low risk applicants were deemed high risk.
 
-- RandomOverSampler
+- **Random OverSampler**
   - Balanced accuracy score 0.6456 indicates the model is not doing very well at predicting credit risk
   - The Precision & Recall scores for both High and Low risk are shown in figure 1 and like the balanced accuracy score does not really perform well. 
  
@@ -19,7 +19,7 @@ By leveraging recall we can see how well the model was at predicting the right l
 
 ![RandomOverSampler](/images/Naive_Random_Oversampling_Classification_Report.png)
 
-- SMOTE algorithms
+- **SMOTE algorithms**
   - Balanced accuracy score 0.6564 indicates the model is not doing very well at predicting credit risk.
   - The Precision & Recall scores for both High and Low risk are shown in figure 2 and like the balanced accuracy score does not really perform well.
 
@@ -27,7 +27,7 @@ By leveraging recall we can see how well the model was at predicting the right l
 
 ![Smote](/images/Smote_Oversampling_Classification_Report.png)
 
-- ClusterCentroids algorithm
+- **Cluster Centroids algorithm**
   - Balanced accuracy score 0.5142 indicates the model is not doing very well at predicting credit risk.
   - The Precision & Recall scores for both High and Low risk are shown in figure 3.
 
@@ -35,7 +35,7 @@ By leveraging recall we can see how well the model was at predicting the right l
 
 ![Cluster Centroids](/images/undersampling_Classification_Report.png)
 
-- Smoteenn
+- **Smoteenn**
   - Balanced accuracy score 0.6794 indicates the model is not doing very well at predicting credit risk.
   - The Precision & Recall scores for both High and Low risk are shown in figure 4 and like the balanced accuracy score does not really perform well.
 
@@ -43,7 +43,7 @@ By leveraging recall we can see how well the model was at predicting the right l
 
 ![Smoteenn](/images/combination_over_under_Classification_Report.png)
 
-- BalancedRandomForestClassifier
+- **Balanced Random Forest Classifier**
   - Balanced accuracy score 0.7877 indicates the model is not doing very well at predicting credit risk.  While the accuracy percentage is higher than those above a look at the confusion matrix will show that 1560 low risk loans were false negatives a potential big loss of revenue.
   - The Precision & Recall scores for both High and Low risk are shown in figure 5 
 
@@ -51,7 +51,7 @@ By leveraging recall we can see how well the model was at predicting the right l
 
 ![Balanced Random](/images/Balanced_Random_Forest_Classification_Report.png)
 
-- EasyEnsembleClassifier
+- **Easy Ensemble Classifier**
   - Balanced accuracy score 0.9254 indicates the model is doing very well at predicting credit risk.  That said it still catagorized 979 low risk as high.
   - The Precision & Recall scores for both High and Low risk are shown in figure 6
   
