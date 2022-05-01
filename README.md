@@ -47,7 +47,7 @@ By leveraging recall we can see how well the model was at predicting the right l
   - Balanced accuracy score 0.7877 indicates the model is not doing very well at predicting credit risk.  While the accuracy percentage is higher than those above a look at the confusion matrix will show that 1560 low risk loans were false negatives a potential big loss of revenue.
   - The Precision & Recall scores for both High and Low risk are shown in figure 5 
 
-  **_Figure 5: Balance Random Forest Classifier Classification Report_**
+  **_Figure 5: Balance Random Forest Classifier Classification Report & Confusion Matrix_**
 
 ![Balanced Random](/images/Balanced_Random_Forest_Classification_Report.png)
 
@@ -55,7 +55,7 @@ By leveraging recall we can see how well the model was at predicting the right l
   - Balanced accuracy score 0.9254 indicates the model is doing very well at predicting credit risk.  That said it still catagorized 979 low risk as high.
   - The Precision & Recall scores for both High and Low risk are shown in figure 6
   
-  **_Figure 6: Easy Ensemble Classifier Classification Report_**
+  **_Figure 6: Easy Ensemble Classifier Classification Report & Confusion Matrix_**
 
 ![Easy Ensemble](/images/Easy_Ensemble_Classification_Report.png)
 
