@@ -11,7 +11,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
 
 - RandomOverSampler
-  - Balanced accuracy score
+  - Balanced accuracy score 0.6456
   - Precision
   - Recall
 
@@ -20,7 +20,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![RandomOverSampler](/images/Naive_Random_Oversampling_Classification_Report.png)
 
 - SMOTE algorithms
-  - Balanced accuracy score
+  - Balanced accuracy score 0.6564
   - Precision
   - Recall
 
@@ -29,7 +29,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![Smote](/images/Smote_Oversampling_Classification_Report.png)
 
 - ClusterCentroids algorithm
-  - Balanced accuracy score
+  - Balanced accuracy score 0.5142
   - Precision
   - Recall
 
@@ -38,7 +38,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![Cluster Centroids](/images/undersampling_Classification_Report.png)
 
 - Smoteenn
-  - Balanced accuracy score
+  - Balanced accuracy score 0.6794
   - Precision
   - Recall
 
@@ -47,7 +47,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![Smoteenn](/images/combination_over_under_Classification_Report.png)
 
 - BalancedRandomForestClassifier
-  - Balanced accuracy score
+  - Balanced accuracy score 0.7877
   - Precision
   - Recall
 
@@ -56,7 +56,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ![Balanced Random](/images/Balanced_Random_Forest_Classification_Report.png)
 
 - EasyEnsembleClassifier
-  - Balanced accuracy score
+  - Balanced accuracy score 0.9254
   - Precision
   - Recall
   
