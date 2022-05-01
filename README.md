@@ -2,7 +2,7 @@
 
 ## Overview
 
-Explain the purpose of this analysis.
+The purpose of this analysis was to accurately predict low and high risk loans through the use of a machine learning model.  In this analysis six different models were trained and analyzed for their effectiveness.
 
 # Results
 
