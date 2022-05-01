@@ -14,6 +14,11 @@ There is a bulleted list that describes the balanced accuracy score and the prec
   - Balanced accuracy score
   - Precision
   - Recall
+
+**_Figure 1: RandomOverSampler_**
+
+![RandomOverSampler](/images/Naive_Random_Oversampling_Classification_Report.png)
+
 - SMOTE algorithms
   - Balanced accuracy score
   - Precision
@@ -42,6 +47,3 @@ Summarize the results of the machine learning models, and include a recommendati
 There is a summary of the results (2 pt)
 There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
 
-**_Figure 2: City Type Summary_**
-
-![City Type Summary](/resources/City_Type_Summary_df.png)
