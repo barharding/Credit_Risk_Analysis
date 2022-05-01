@@ -24,18 +24,27 @@ There is a bulleted list that describes the balanced accuracy score and the prec
   - Precision
   - Recall
 
+  **_Figure 2: Smote_**
+
+![Smote](/images/Smote_Oversampling_Classification_Report.png)
 
 - ClusterCentroids algorithm
   - Balanced accuracy score
   - Precision
   - Recall
 
+  **_Figure 3: Cluster Centroids_**
+
+![Cluster Centroids](/images/undersampling_Classification_Report.png)
 
 - Smoteenn
   - Balanced accuracy score
   - Precision
   - Recall
 
+  **_Figure 4: Smoteen_**
+
+![Smoteenn](/images/combination_over_under_Classification_Report.png)
 
 - BalancedRandomForestClassifier
   - Balanced accuracy score
